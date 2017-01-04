@@ -25,4 +25,12 @@
 
 **Link to work:** https://github.com/tbritoamorim/WordCounter/commits/master
 
+### Day 4: January 4, 2017
+
+**Today's Progress**: Removed the form tags to enable Javascript to handle with the data. Rewrote Javascript and adapted HTML and CSS.
+
+**Thoughts:** Although PHP was a nice adventure, Javascript made way more sense to use. I honestly love it, but adding it to the the HTML and having events listeners was a little horrible. I was shocked when it finally worked, cause it took hours to that. But I couldn't be happier. Gotta try to deploy it tomorrow with GitHub.
+
+**Link to work:** https://github.com/tbritoamorim/WordCounter/commits/master
+
 
