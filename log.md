@@ -33,4 +33,12 @@
 
 **Link to work:** https://github.com/tbritoamorim/WordCounter/commits/master
 
+### Day 5: January 5, 2017
+
+**Today's Progress**: Started a new project, worked on the index.html and the css for the page.
+
+**Thoughts:** I really hope that centering in css will get easier with time. I totally learned something about nested columns on bootstrap today. Worked for more than 3 hours and it just flew by.
+
+**Link to work:** https://github.com/tbritoamorim/MOVE-/commits/master
+
 
