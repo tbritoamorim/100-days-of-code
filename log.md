@@ -41,4 +41,12 @@
 
 **Link to work:** https://github.com/tbritoamorim/MOVE-/commits/master
 
+### Day 6: January 6, 2017
+
+**Today's Progress**: Had to change the svg on the page, started with jQuery.
+
+**Thoughts:** After dealing with some problems on jQuery, started the animation just to realise the svg I had wasn't going to work for my purposes. Had to draw one and replace it, put the classes on its parts to animate again... At least I managed to put jQuery to work. Hope to have it done by tomorrow.
+
+**Link to work:** https://github.com/tbritoamorim/MOVE-/commits/master
+
 
