@@ -49,4 +49,12 @@
 
 **Link to work:** https://github.com/tbritoamorim/MOVE-/commits/master
 
+### Day 7: January 7, 2017
+
+**Today's Progress**: Made a lot more of animations, added them to Javascript.
+
+**Thoughts:** The animations took a considerable time today, there's two more left that I'm going to finish tomorrow. I was glad when I was able to center the buttons inside of the well. Little stuff, but satisfing.
+
+**Link to work:** https://github.com/tbritoamorim/MOVE-/commits/master
+
 
