@@ -57,4 +57,12 @@
 
 **Link to work:** https://github.com/tbritoamorim/MOVE-/commits/master
 
+### Day 8: January 8, 2017
+
+**Today's Progress**: Finished the animations, wraped-up Javascript and started to make it responsive.
+
+**Thoughts:** I'm satisfied with the animations and how the page looks. It's simple, but I'm proud. Gonna fiz the little issues tomorrow.
+
+**Link to work:** https://github.com/tbritoamorim/MOVE-/commits/master
+
 
