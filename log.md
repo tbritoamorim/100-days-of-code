@@ -65,4 +65,10 @@
 
 **Link to work:** https://github.com/tbritoamorim/MOVE-/commits/master
 
+### Day 9: January 9, 2017
 
+**Today's Progress**: It's responsive now! I also made some changes in the design and fixed the issues. Added a logo and animated it on hover.
+
+**Thoughts:** Today was a good day. Tomorrow it's deploying day!!!
+
+**Link to work:** https://github.com/tbritoamorim/MOVE-/commits/master
