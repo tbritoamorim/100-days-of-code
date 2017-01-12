@@ -72,3 +72,19 @@
 **Thoughts:** Today was a good day. Tomorrow it's deploying day!!!
 
 **Link to work:** https://github.com/tbritoamorim/MOVE-/commits/master
+
+### Day 10: January 10, 2017
+
+**Today's Progress**: I deploy the website!! Also finished the basic algorithms on fcc, so now I can start the new projects. I did the basic html and css for my random quote machine.
+
+**Thoughts:** What a day! I did a lot. Gonna miss the time I'm putting in this when my vacation is over.
+
+**Link to work:** https://github.com/tbritoamorim/random_quote_machine/commits/master
+
+### Day 11: January 11, 2017
+
+**Today's Progress**: Started digging into JSON and a lot of my day was reading documentation and learning how to use an API. But I still managed to apply it to my page and add some things to the design. I hope to finish it by tomorrow.
+
+**Thoughts:** What a day!(2). Second day in a row that I feel accomplished. I wanna do a lot of projects with APIs now to practice. Can't wait. Since yesterday I started using WakaTime to track my progress as well. I counted 6h9m today.
+
+**Link to work:** https://github.com/tbritoamorim/random_quote_machine/commits/master
