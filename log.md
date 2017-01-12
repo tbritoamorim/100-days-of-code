@@ -85,6 +85,16 @@
 
 **Today's Progress**: Started digging into JSON and a lot of my day was reading documentation and learning how to use an API. But I still managed to apply it to my page and add some things to the design. I hope to finish it by tomorrow.
 
-**Thoughts:** What a day!(2). Second day in a row that I feel accomplished. I wanna do a lot of projects with APIs now to practice. Can't wait. Since yesterday I started using WakaTime to track my progress as well. I counted 6h9m today.
+**Thoughts:** What a day!(2). Second day in a row that I feel accomplished. I wanna do a lot of projects with APIs now to practice. Can't wait. Since yesterday I started using WakaTime to track my progress as well. It counted 6h9m today.
 
 **Link to work:** https://github.com/tbritoamorim/random_quote_machine/commits/master
+
+### Day 12: January 12, 2017
+
+**Today's Progress**: Finished my random quote machine. Yay! It's on githubPages (first link, if you want to check it).
+
+**Thoughts:** Worked on making the animations the way I wanted, twitter API, random background image, css details, making a counter of quotes. I'm quite satisfied with the result. It's note responsive yet, but I'll work on that tomorrow. It looks good and it's by far the most professional thing I've ever done.
+
+**Link to work:** https://tbritoamorim.github.io/randomQuoteMachine.github.io/
+                  https://github.com/tbritoamorim/random_quote_machine/commits/master
+
