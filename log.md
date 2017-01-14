@@ -98,3 +98,10 @@
 **Link to work:** https://tbritoamorim.github.io/randomQuoteMachine.github.io/
                   https://github.com/tbritoamorim/random_quote_machine/commits/master
 
+### Day 13: January 13, 2017
+
+**Today's Progress**: Started my weather app, basic html, added APIs;
+
+**Thoughts:** Adding the two APIs was a lot of work, I need to practice this waaaaay more, I also decided to start using Sass, so another thing that took me some time. I don't feel like I did much progress today cause I was stuck most of the time, but that's how it is. API, I'm gonna get you. 
+
+**Link to work:** https://github.com/tbritoamorim/weather-app/commits/master
