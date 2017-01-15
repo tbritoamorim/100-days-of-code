@@ -105,3 +105,11 @@
 **Thoughts:** Adding the two APIs was a lot of work, I need to practice this waaaaay more, I also decided to start using Sass, so another thing that took me some time. I don't feel like I did much progress today cause I was stuck most of the time, but that's how it is. API, I'm gonna get you. 
 
 **Link to work:** https://github.com/tbritoamorim/weather-app/commits/master
+
+### Day 14: January 14, 2017
+
+**Today's Progress**: Add icons to be pulled depending on the weather, basic design.
+
+**Thoughts:** It's been two weeks! It's been an awesome experience so far, I'm learning so much. Sometimes I just can't stop!
+
+**Link to work:** https://github.com/tbritoamorim/weather-app/commits/master
