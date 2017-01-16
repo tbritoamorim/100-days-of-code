@@ -113,3 +113,11 @@
 **Thoughts:** It's been two weeks! It's been an awesome experience so far, I'm learning so much. Sometimes I just can't stop!
 
 **Link to work:** https://github.com/tbritoamorim/weather-app/commits/master
+
+### Day 15: January 15, 2017
+
+**Today's Progress**: Animated the icons and made background change to type of weather.
+
+**Thoughts:** Spend most of the time today on Sass. It's rewarding, but still a challenge. Tomorrow I'm back to work, so I'll have less time, slower progress, but let's keep it going.
+
+**Link to work:** https://github.com/tbritoamorim/weather-app/commits/master
