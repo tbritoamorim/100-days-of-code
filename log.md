@@ -121,3 +121,11 @@
 **Thoughts:** Spend most of the time today on Sass. It's rewarding, but still a challenge. Tomorrow I'm back to work, so I'll have less time, slower progress, but let's keep it going.
 
 **Link to work:** https://github.com/tbritoamorim/weather-app/commits/master
+
+### Day 16: January 16, 2017
+
+**Today's Progress**: Still on the weather app, I'm getting satisfyied with the design, might deploy it tomorrow
+
+**Thoughts:** I'm glad I started using Sass. I did have less time and ended up taking 30 minutes off sleep, which I'll probably miss in a few hours. Besides that, this is basically the forth site I finish since I started this challenge and I'm loving every minute.
+
+**Link to work:** https://github.com/tbritoamorim/weather-app/commits/master
