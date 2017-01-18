@@ -129,3 +129,11 @@
 **Thoughts:** I'm glad I started using Sass. I did have less time and ended up taking 30 minutes off sleep, which I'll probably miss in a few hours. Besides that, this is basically the forth site I finish since I started this challenge and I'm loving every minute.
 
 **Link to work:** https://github.com/tbritoamorim/weather-app/commits/master
+
+### Day 17: January 17, 2017
+
+**Today's Progress**: Started redoing my weather app...
+
+**Thoughts:** Couldn't deploy it due to mixed context, which I only heard  about today. Both my APIs use http so it was being really hard to adapt it. I decided t start all over again. At least now I'm using git on the command line and it feels nice.
+
+**Link to work:** https://github.com/tbritoamorim/weather-app2/commits/master
