@@ -137,3 +137,11 @@
 **Thoughts:** Couldn't deploy it due to mixed context, which I only heard  about today. Both my APIs use http so it was being really hard to adapt it. I decided t start all over again. At least now I'm using git on the command line and it feels nice.
 
 **Link to work:** https://github.com/tbritoamorim/weather-app2/commits/master
+
+### Day 18: January 18, 2017
+
+**Today's Progress**: Started developing the design
+
+**Thoughts:** CSS positioning always playing tricks. I just hope it works we I start adding Javascript soon...
+
+**Link to work:** https://github.com/tbritoamorim/weather-app2/commits/master
