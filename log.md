@@ -100,7 +100,7 @@
 
 ### Day 13: January 13, 2017
 
-**Today's Progress**: Started my weather app, basic html, added APIs;
+**Today's Progress**: Started my weather app, basic html, added APIs.
 
 **Thoughts:** Adding the two APIs was a lot of work, I need to practice this waaaaay more, I also decided to start using Sass, so another thing that took me some time. I don't feel like I did much progress today cause I was stuck most of the time, but that's how it is. API, I'm gonna get you. 
 
@@ -151,5 +151,13 @@
 **Today's Progress**: Didn't have a lot of progress, still working on the css.
 
 **Thoughts:** I really like Sass, I'm not fast yet but I will.
+
+**Link to work:** https://github.com/tbritoamorim/weather-app2/commits/master
+
+### Day 20: January 20, 2017
+
+**Today's Progress**: Didn't do much, but finally finished styling the page.
+
+**Thoughts:** It took some time to finish design this time specially because 'overflow:hidden' was playing me a trick. I only realised it today and now the elements are where I wanted them. Also, started using flexbox. 
 
 **Link to work:** https://github.com/tbritoamorim/weather-app2/commits/master
