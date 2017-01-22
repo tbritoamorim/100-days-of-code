@@ -161,3 +161,11 @@
 **Thoughts:** It took some time to finish design this time specially because 'overflow:hidden' was playing me a trick. I only realised it today and now the elements are where I wanted them. Also, started using flexbox. 
 
 **Link to work:** https://github.com/tbritoamorim/weather-app2/commits/master
+
+### Day 21: January 21, 2017
+
+**Today's Progress**: started adding Javascript to the page to handle the weather API.
+
+**Thoughts:**  I almost finished it to be honest, but I'm kinda sleepy already. I think I'll have the same deployng problem, but this time, I'll just put it on codepen. I hope to work with HTTPS APIs from now on..
+
+**Link to work:** https://github.com/tbritoamorim/weather-app2/commits/master
