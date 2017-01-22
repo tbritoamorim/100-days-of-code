@@ -169,3 +169,11 @@
 **Thoughts:**  I almost finished it to be honest, but I'm kinda sleepy already. I think I'll have the same deployng problem, but this time, I'll just put it on codepen. I hope to work with HTTPS APIs from now on..
 
 **Link to work:** https://github.com/tbritoamorim/weather-app2/commits/master
+
+### Day 22: January 22, 2017
+
+**Today's Progress**: Finished with the Weather App, but still can't deploy at all.
+
+**Thoughts:**  I tried to put it on codepen, but a font doesn't load anyway, it's so annoying. Well, more projects using APIs ahead, http never more.
+
+**Link to work:** https://github.com/tbritoamorim/weather-app2/commits/master
