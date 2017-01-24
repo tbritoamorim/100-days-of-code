@@ -177,3 +177,11 @@
 **Thoughts:**  I tried to put it on codepen, but a font doesn't load anyway, it's so annoying. Well, more projects using APIs ahead, http never more.
 
 **Link to work:** https://github.com/tbritoamorim/weather-app2/commits/master
+
+### Day 23: January 23, 2017
+
+**Today's Progress**: Started Wikipedia Viewer. Basic html and style.
+
+**Thoughts:**  Today was just that, really. But now I can start using the wikipedia API, looking forward to it.
+
+**Link to work:** https://github.com/tbritoamorim/wikipediaViewer
