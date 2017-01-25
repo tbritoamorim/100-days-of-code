@@ -185,3 +185,11 @@
 **Thoughts:**  Today was just that, really. But now I can start using the wikipedia API, looking forward to it.
 
 **Link to work:** https://github.com/tbritoamorim/wikipediaViewer
+
+### Day 23: January 23, 2017
+
+**Today's Progress**: Started Javascript to get results from the API. I did more progress than I thought I would.
+
+**Thoughts:**  I guess I'm starting to get $.ajax, but I'm far from the final product.
+
+**Link to work:** https://github.com/tbritoamorim/wikipediaViewer
