@@ -186,10 +186,18 @@
 
 **Link to work:** https://github.com/tbritoamorim/wikipediaViewer
 
-### Day 23: January 23, 2017
+### Day 24: January 24, 2017
 
 **Today's Progress**: Started Javascript to get results from the API. I did more progress than I thought I would.
 
-**Thoughts:**  I guess I'm starting to get $.ajax, but I'm far from the final product.
+**Thoughts:** I guess I'm starting to get $.ajax, but I'm far from the final product.
+
+**Link to work:** https://github.com/tbritoamorim/wikipediaViewer
+
+### Day 25: January 25, 2017
+
+**Today's Progress**: Wikipedia API is working!! Some design changes made as well.
+
+**Thoughts:** After all the struggle yesterday, I can't believe that today the app is funcional! A lot of my confusion was about choosing the correction action to call the API. When I found opensearch and saw the links on the JSON, I knew I had found it. Then Javascript was fine and it turns out it was simplier than I thought. I'm feeling very satisfied today.
 
 **Link to work:** https://github.com/tbritoamorim/wikipediaViewer
