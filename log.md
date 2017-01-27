@@ -201,3 +201,11 @@
 **Thoughts:** After all the struggle yesterday, I can't believe that today the app is funcional! A lot of my confusion was about choosing the correction action to call the API. When I found opensearch and saw the links on the JSON, I knew I had found it. Then Javascript was fine and it turns out it was simplier than I thought. I'm feeling very satisfied today.
 
 **Link to work:** https://github.com/tbritoamorim/wikipediaViewer
+
+### Day 26: January 26, 2017
+
+**Today's Progress**: Wikipedia View is up and running! Now with an autocomplete search and improved design.
+
+**Thoughts:** Need to make it responsive tho...
+
+**Link to work:** https://github.com/tbritoamorim/wikipediaViewer
