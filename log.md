@@ -209,3 +209,11 @@
 **Thoughts:** Need to make it responsive tho...
 
 **Link to work:** https://github.com/tbritoamorim/wikipediaViewer
+
+### Day 27: January 27, 2017
+
+**Today's Progress**: Wikipedia View is totally responsive now.
+
+**Thoughts:** I really should start making responsive from the beginning...
+
+**Link to work:** https://tbritoamorim.github.io/wikipediaViewer.github.io/
