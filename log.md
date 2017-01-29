@@ -217,3 +217,12 @@
 **Thoughts:** I really should start making responsive from the beginning...
 
 **Link to work:** https://tbritoamorim.github.io/wikipediaViewer.github.io/
+
+### Day 28: January 28, 2017
+
+**Today's Progress**: Started TwitchTV api project for free code camp. Did html, basic layout on sass and javacript to manage data from the api.
+
+**Thoughts:** It's getting easier to deal with ajax callings on jquery. Today it was even fast. All I have to do now is work on the layout. Should be done by tomorrow.
+
+**Link to work:** https://github.com/tbritoamorim/twitchTV
+
