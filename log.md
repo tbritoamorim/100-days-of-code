@@ -222,7 +222,14 @@
 
 **Today's Progress**: Started TwitchTV api project for free code camp. Did html, basic layout on sass and javacript to manage data from the api.
 
-**Thoughts:** It's getting easier to deal with ajax callings on jquery. Today it was even fast. All I have to do now is work on the layout. Should be done by tomorrow.
+**Thoughts:** It's getting easier to deal with ajax callings on jquery. Today it was even fast. All I have to do now is work on the layout.
 
 **Link to work:** https://github.com/tbritoamorim/twitchTV
 
+### Day 28: January 28, 2017
+
+**Today's Progress**: Improved the layout, but had to make a change in the API to better reflect the challenge.
+
+**Thoughts:** Twitch API is not so good. It's giving me some work, but I'll manage it!
+
+**Link to work:** https://github.com/tbritoamorim/twitchTV
