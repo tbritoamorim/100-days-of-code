@@ -226,10 +226,18 @@
 
 **Link to work:** https://github.com/tbritoamorim/twitchTV
 
-### Day 28: January 28, 2017
+### Day 29: January 29, 2017
 
 **Today's Progress**: Improved the layout, but had to make a change in the API to better reflect the challenge.
 
 **Thoughts:** Twitch API is not so good. It's giving me some work, but I'll manage it!
+
+**Link to work:** https://github.com/tbritoamorim/twitchTV
+
+### Day 30: January 30, 2017
+
+**Today's Progress**: Well, my Javascript file just disappered, so I'm pretty much on the same place I was yesterday.
+
+**Thoughts:** Twitch API, you really could give me the name of the channel when offline.
 
 **Link to work:** https://github.com/tbritoamorim/twitchTV
