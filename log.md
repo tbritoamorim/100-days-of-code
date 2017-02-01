@@ -241,3 +241,11 @@
 **Thoughts:** Twitch API, you really could give me the name of the channel when offline.
 
 **Link to work:** https://github.com/tbritoamorim/twitchTV
+
+### Day 31: January 31, 2017
+
+**Today's Progress**: Buttons now working. Click to show online, offline or all.
+
+**Thoughts:** Had to come up with a criative way to make offline channels disapperar. It may have not been the best practice, but I'm glad of the way I did it. Only search bar missing now.
+
+**Link to work:** https://github.com/tbritoamorim/twitchTV
