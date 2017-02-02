@@ -249,3 +249,11 @@
 **Thoughts:** Had to come up with a criative way to make offline channels disapperar. It may have not been the best practice, but I'm glad of the way I did it. Only search bar missing now.
 
 **Link to work:** https://github.com/tbritoamorim/twitchTV
+
+### Day 32: February 1, 2017
+
+**Today's Progress**: Search bar now filters channel on keypress. Twitch API project done.
+
+**Thoughts:** I'm pretty impressive about how this challenge is changing me. I don't wanna stop.
+
+**Link to work:** https://github.com/tbritoamorim/twitchTV
