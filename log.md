@@ -257,3 +257,19 @@
 **Thoughts:** I'm pretty impressive about how this challenge is changing me. I don't wanna stop.
 
 **Link to work:** https://github.com/tbritoamorim/twitchTV
+
+### Day 33: February 2, 2017
+
+**Today's Progress**: Couldn't work on any project today because I got a new computer and had to set it up. Started the intermediate algorithms on freecodecamp tho.
+
+**Thoughts:** I need new projects. Kinda lost on what to do next.
+
+**Link to work:** https://www.freecodecamp.com/tbritoamorim
+
+### Day 34: February 3, 2017
+
+**Today's Progress**: Finished setting up my computer and I'm back to coding! Signed up to JavaScript30. Started the Drum Kit. Basic HTML done, some sass.
+
+**Thoughts:** I'm so glad I found new projects to work on. It's gonna be interesting using pure JavaScript after 4 projects with jQuery.
+
+**Link to work:** https://github.com/tbritoamorim/drumKit
