@@ -273,3 +273,21 @@
 **Thoughts:** I'm so glad I found new projects to work on. It's gonna be interesting using pure JavaScript after 4 projects with jQuery.
 
 **Link to work:** https://github.com/tbritoamorim/drumKit
+
+### Day 35: February 5, 2017
+
+**Today's Progress**: Had to skip yesterday :((( Continued to work on the Drums Kit, found audio files.
+
+**Thoughts:** I had no idea there was a keyboard input element on HTML. My computer isn't ready yet, so couldn't code much, gonna get back on track tomorrow, I'm not even tweeting.
+
+**Link to work:** https://github.com/tbritoamorim/drumKit
+
+### Day 36: February 6, 2017
+
+**Today's Progress**: Keypress plays the sound, that part is done. Only the little animation missing now.
+
+**Thoughts:** Spent a lot of time trying to solve a bug Chrome was showing and there was a point I thought of giving up. Couldn't believe when it worked.
+
+**Link to work:** https://github.com/tbritoamorim/drumKit
+
+
