@@ -290,4 +290,12 @@
 
 **Link to work:** https://github.com/tbritoamorim/drumKit
 
+### Day 37: February 7, 2017
+
+**Today's Progress**: Satisfied with the animation. Drum kit finished.
+
+**Thoughts:** Have to remember that querySelectorAll needs to be below the HTML. Gonna do another project inspired by this one.
+
+**Link to work:** https://github.com/tbritoamorim/drumKit
+
 
