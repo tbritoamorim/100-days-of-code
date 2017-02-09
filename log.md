@@ -298,4 +298,11 @@
 
 **Link to work:** https://github.com/tbritoamorim/drumKit
 
+### Day 38: February 8, 2017
+
+**Today's Progress**: Started a project based on the drum-kit. Made basic HTML and CSS.
+
+**Thoughts:** I have the impression I should be faster to do this, but I'm very attached to design details. Something else that took some time to think was the keys that must be pressed to form the sentences. They need a certain spacing and logic. I'll record the audio tomorrow and add JS and see if it works.
+
+**Link to work:** https://github.com/tbritoamorim/English-Keyboard
 
