@@ -306,3 +306,11 @@
 
 **Link to work:** https://github.com/tbritoamorim/English-Keyboard
 
+### Day 39: February 9, 2017
+
+**Today's Progress**: Did the JS and made some chances in the design. Had to record and add many audio files. 
+
+**Thoughts:** I have to remember that for Array.from(document...) has to be read after the HTML is loaded. I made the same mistake on day 37. But I'm felling happy cause doing stuff for my class is the reason why I started programming in the first place.It's like a dream come true.
+
+**Link to work:** https://github.com/tbritoamorim/English-Keyboard
+
