@@ -314,3 +314,10 @@
 
 **Link to work:** https://github.com/tbritoamorim/English-Keyboard
 
+### Day 40: February 10, 2017
+
+**Today's Progress**: Added a text input that takes the word from the key and "writes" it in it.
+
+**Thoughts:** Had this idea of the text input today and I was glad I could do it on this day, which I almost skipped. I'm very tired and have 5 hours straight of class to give tomorrow in 7 hours, but let's keep coding.
+
+**Link to work:** https://github.com/tbritoamorim/English-Keyboard
