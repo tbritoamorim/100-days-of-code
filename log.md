@@ -321,3 +321,11 @@
 **Thoughts:** Had this idea of the text input today and I was glad I could do it on this day, which I almost skipped. I'm very tired and have 5 hours straight of class to give tomorrow in 7 hours, but let's keep coding.
 
 **Link to work:** https://github.com/tbritoamorim/English-Keyboard
+
+### Day 41: February 11, 2017
+
+**Today's Progress**: It checks if the sentence is correct.
+
+**Thoughts:** The idea is simple. When the user types and the box gets filled in with the words, it alerts wrong and resets the box. Simple, but I'm glad I was able to do it.
+
+**Link to work:** https://github.com/tbritoamorim/English-Keyboard
