@@ -329,3 +329,11 @@
 **Thoughts:** The idea is simple. When the user types and the box gets filled in with the words, it alerts wrong and resets the box. Simple, but I'm glad I was able to do it.
 
 **Link to work:** https://github.com/tbritoamorim/English-Keyboard
+
+### Day 42: February 12, 2017
+
+**Today's Progress**: Added a reset button and made a few design improvements. I'm now done with this project.
+
+**Thoughts:** It was really fun adapting something I saw on JavaScript30. Tomorrow I can move to the second project.
+
+**Link to work:** https://github.com/tbritoamorim/English-Keyboard
