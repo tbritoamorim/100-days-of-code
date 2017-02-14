@@ -337,3 +337,12 @@
 **Thoughts:** It was really fun adapting something I saw on JavaScript30. Tomorrow I can move to the second project.
 
 **Link to work:** https://github.com/tbritoamorim/English-Keyboard
+
+### Day 43: February 13, 2017
+
+**Today's Progress**: Started the second project on JavaScript30.
+
+**Thoughts:** So far, so good. Flexbox, I love you.
+
+**Link to work:** https://github.com/tbritoamorim/JSclock
+
