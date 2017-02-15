@@ -346,3 +346,10 @@
 
 **Link to work:** https://github.com/tbritoamorim/JSclock
 
+### Day 44: February 14, 2017
+
+**Today's Progress**: Finished the JS clock. That was fast.
+
+**Thoughts:** This one was easy. I love how it makes search on a lot of JS build-in functions.
+
+**Link to work:** https://github.com/tbritoamorim/JSclock
