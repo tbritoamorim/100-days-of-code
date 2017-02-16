@@ -353,3 +353,11 @@
 **Thoughts:** This one was easy. I love how it makes search on a lot of JS build-in functions.
 
 **Link to work:** https://github.com/tbritoamorim/JSclock
+
+### Day 45: February 15, 2017
+
+**Today's Progress**: Started the CSS Variables project for JavaScript 30. Searched on how to change a range apperance with CSS.
+
+**Thoughts:** I didn't even know there were CSS variables. Living and learning.
+
+**Link to work:** https://github.com/tbritoamorim/cssVariables
