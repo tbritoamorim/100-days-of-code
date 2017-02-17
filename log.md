@@ -361,3 +361,11 @@
 **Thoughts:** I didn't even know there were CSS variables. Living and learning.
 
 **Link to work:** https://github.com/tbritoamorim/cssVariables
+
+### Day 46: February 16, 2017
+
+**Today's Progress**: Finished the CSS Variables projesct on JavaScript30.
+
+**Thoughts:** I wanna do another project using CSS Variables by the end of this challenge. Wondering if I can use CSS Variables with Sass..
+
+**Link to work:** https://github.com/tbritoamorim/cssVariables
