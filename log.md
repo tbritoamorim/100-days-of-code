@@ -385,3 +385,11 @@
 **Thoughts:** I'm doing those the right way! Yay! I own it a lot to freeCodeCamp algorithms.
 
 **Link to work:** https://github.com/tbritoamorim/arrayCardio
+
+### Day 49: February 19, 2017
+
+**Today's Progress**: Finished JAvaScript Best Parctices on CodeSchool.
+
+**Thoughts:** I had been doing that for a month and I had to finish. It took a long time, specially because of long videos, but the last level about modules was insanelly good.
+
+**Link to work:** --
