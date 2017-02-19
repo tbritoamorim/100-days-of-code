@@ -369,3 +369,19 @@
 **Thoughts:** I wanna do another project using CSS Variables by the end of this challenge. Wondering if I can use CSS Variables with Sass..
 
 **Link to work:** https://github.com/tbritoamorim/cssVariables
+
+### Day 47: February 17, 2017
+
+**Today's Progress**: After having it on hold for several days, went to the fcc intermediate algorithms.
+
+**Thoughts:** Struggled a lot to finish one. That was hard...
+
+**Link to work:** https://www.freecodecamp.com/challenges/diff-two-arrays#?solution=%0Afunction%20diffArray(arr1%2C%20arr2)%20%7B%0A%20%20var%20newArr%20%3D%20%5B%5D%3B%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr1.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20if%20(arr2.indexOf(arr1%5Bi%5D)%20%3D%3D%3D%20-1)%20%7B%0A%20%20%20%20%20%20newArr.push(arr1%5Bi%5D)%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20%0A%20%20for%20(var%20j%20%3D%200%3B%20j%20%3C%20arr2.length%3B%20j%2B%2B)%20%7B%0A%20%20%20%20if%20(arr1.indexOf(arr2%5Bj%5D)%20%3D%3D%3D%20-1)%20%7B%0A%20%20%20%20%20%20newArr.push(arr2%5Bj%5D)%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20return%20newArr%3B%0A%7D%0A%0AdiffArray(%5B1%2C%202%2C%203%2C%205%5D%2C%20%5B1%2C%202%2C%203%2C%204%2C%205%5D)%3B%0A
+
+### Day 48: February 18, 2017
+
+**Today's Progress**: Started Array Cardio on JavaScript30.
+
+**Thoughts:** I'm doing those the right way! Yay! I own it a lot to freeCodeCamp algorithms.
+
+**Link to work:** https://github.com/tbritoamorim/arrayCardio
