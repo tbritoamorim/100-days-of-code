@@ -388,8 +388,17 @@
 
 ### Day 49: February 19, 2017
 
-**Today's Progress**: Finished JAvaScript Best Parctices on CodeSchool.
+**Today's Progress**: Finished JavaScript Best Parctices on CodeSchool.
 
 **Thoughts:** I had been doing that for a month and I had to finish. It took a long time, specially because of long videos, but the last level about modules was insanelly good.
 
 **Link to work:** --
+
+### Day 50: February 20, 2017
+
+**Today's Progress**: Continued Array Cardio and got halfway through the jQuery course on CodeSchool.
+
+**Thoughts:** Sometimes te answer isright in front of you and you don't see it :(
+
+**Link to work:** https://github.com/tbritoamorim/arrayCardio
+
