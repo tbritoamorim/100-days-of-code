@@ -398,7 +398,23 @@
 
 **Today's Progress**: Continued Array Cardio and got halfway through the jQuery course on CodeSchool.
 
-**Thoughts:** Sometimes te answer isright in front of you and you don't see it :(
+**Thoughts:** Sometimes te answer is right in front of you and you don't see it :(
 
 **Link to work:** https://github.com/tbritoamorim/arrayCardio
+
+### Day 51: February 21, 2017
+
+**Today's Progress**: Finished Array Cardio and some more jQuery on CodeSchool.
+
+**Thoughts:** Reduce method on JavaScript is very useful for a lot of stuff.
+
+**Link to work:** https://github.com/tbritoamorim/arrayCardio
+
+### Day 52: February 22, 2017
+
+**Today's Progress**: Not a very productive day, but started the flex gallery for JavaScript 30.
+
+**Thoughts:** Just HTML done because didn't have much time and it was reduced by internet issues.
+
+**Link to work:** https://github.com/tbritoamorim/flexGallery/
 
