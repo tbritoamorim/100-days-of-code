@@ -418,3 +418,10 @@
 
 **Link to work:** https://github.com/tbritoamorim/flexGallery/
 
+### Day 53: March 1, 2017
+
+**Today's Progress**: I skipped all those days not because i didn't code, but because I know I didn't put enough effort on it, so I decided not to count them. Finished the flex gallery.
+
+**Thoughts:** Gotta focus again...
+
+**Link to work:** https://github.com/tbritoamorim/flexGallery/
