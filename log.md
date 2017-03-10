@@ -425,3 +425,11 @@
 **Thoughts:** Gotta focus again...
 
 **Link to work:** https://github.com/tbritoamorim/flexGallery/
+
+### Day 54: March 9, 2017
+
+**Today's Progress**: Two algorithms on codewars.
+
+**Thoughts:** On week later, a lot happened. College has started and with a full-time job, it's hard to find time to feel like I did something. After taking some time to think of it, I've decided to do the following: on weekdays, I'll work on algorithms. On weekends, I'll work on CS50 problem sets and side projects.
+
+**Link to work:** --
