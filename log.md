@@ -433,3 +433,11 @@
 **Thoughts:** On week later, a lot happened. College has started and with a full-time job, it's hard to find time to feel like I did something. After taking some time to think of it, I've decided to do the following: on weekdays, I'll work on algorithms. On weekends, I'll work on CS50 problem sets and side projects.
 
 **Link to work:** --
+
+### Day 55: March 10, 2017
+
+**Today's Progress**: Another algorithm on codewars. I ranked up!
+
+**Thoughts:** Today is a very busy day, so I'm glad I got some time to sit and code. I have many ideas I want toput in practice.
+
+**Link to work:** --
